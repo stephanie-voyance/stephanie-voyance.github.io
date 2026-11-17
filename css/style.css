@@ -137,3 +137,8 @@ details p{margin:0;padding:0 20px 18px}
   .tarifs h3{margin-right:0;width:100%;text-align:center}
 }
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+.card ul{margin:0;padding-left:1.1em;font-size:.95rem}
+.card li{margin:.35em 0}
+.card h3 em{display:block;margin-top:2px;font-size:.8rem;font-style:normal;font-weight:500;color:var(--text)}
+nav a{padding:8px 12px}
+.logo{background:linear-gradient(135deg,var(--peach),var(--rose));color:var(--ink);box-shadow:0 6px 16px rgba(244,179,203,.5)}
